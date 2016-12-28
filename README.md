@@ -30,7 +30,7 @@ Intel
 - [OOS dscan](http://tools.oos-alliance.net/dscan/)
 - [Eve Eye](https://eveeye.com) maps / intel / chain mapping / location tracking
 - [Eve gatecheck](http://eve-gatecheck.space)
-- [NearForEve](http://www.nearforeve.com
+- [NearForEve](http://www.nearforeve.com)
 - [Ganker Lookout](https://gankerlookout.com)
 - [Eveovermind - dscan](http://collab.eveovermind.com/dscan.php)
 - [Eveovermind - Combat Recon](http://www.eveovermind.com/combatrecon.php) PVP intel
