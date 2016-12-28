@@ -83,6 +83,7 @@ Wormholes
 - [Siggy](https://siggy.borkedlabs.com/pages/welcome)
 - [Eve Scout](https://www.eve-scout.com/thera) Thera connections
 - [Tripwire](https://tripwire.eve-apps.com) Wormhole mapper
+- [Pathfinder](https://www.pathfinder-w.space)
 
 Faction warfare
 --
